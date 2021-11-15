@@ -1,8 +1,6 @@
 # blindspot_amodal_Aug2016
-Python experimental programme for research on amodal completion over the blind spot [USYD - Aug 2016]]
+Python experimental programme for independent research on amodal completion over the blind spot [USYD - Aug 2016]]
 
-Five observers (4 females, mean age of 20.4 years) were tested. 
-All were naïve about the aim of the study, and declared normal or corrected-to-normal visual acuity.
 Participants were seated individually in front a computer screen. The experiment is run on PsychoPy (Peirce, 2007). 
 Participants first positioned their blind-spot at the appropriate location. In calibration trials, a fixation cross was presented centrally on screen, 
 with a grey ellipse (vertical major axis of 5.73º) placed 15.20° left of and 2.29° below the cross (measured at 50cm viewing distance).
